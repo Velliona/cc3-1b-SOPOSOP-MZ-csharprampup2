@@ -1,0 +1,14 @@
+C:\Users\Seele\Desktop\Test_Project\Test_Project\bin\Debug\Test_Project.exe.config
+C:\Users\Seele\Desktop\Test_Project\Test_Project\bin\Debug\Test_Project.exe
+C:\Users\Seele\Desktop\Test_Project\Test_Project\bin\Debug\Test_Project.pdb
+C:\Users\Seele\Desktop\Test_Project\Test_Project\obj\Debug\Test_Project.csproj.AssemblyReference.cache
+C:\Users\Seele\Desktop\Test_Project\Test_Project\obj\Debug\Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\Seele\Desktop\Test_Project\Test_Project\obj\Debug\Test_Project.exe
+C:\Users\Seele\Desktop\Test_Project\Test_Project\obj\Debug\Test_Project.pdb
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\bin\Debug\Test_Project.exe.config
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\bin\Debug\Test_Project.exe
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\bin\Debug\Test_Project.pdb
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\obj\Debug\Test_Project.csproj.AssemblyReference.cache
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\obj\Debug\Test_Project.csproj.CoreCompileInputs.cache
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\obj\Debug\Test_Project.exe
+C:\Users\Seele\Desktop\School\CSharpRampUp\Test_Project\obj\Debug\Test_Project.pdb
