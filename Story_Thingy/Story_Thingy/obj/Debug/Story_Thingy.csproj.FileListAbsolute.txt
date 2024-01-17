@@ -1,7 +1,0 @@
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\bin\Debug\Story_Thingy.exe.config
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\bin\Debug\Story_Thingy.exe
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\bin\Debug\Story_Thingy.pdb
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\obj\Debug\Story_Thingy.csproj.AssemblyReference.cache
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\obj\Debug\Story_Thingy.csproj.CoreCompileInputs.cache
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\obj\Debug\Story_Thingy.exe
-C:\Users\Seele\Desktop\Story_Thingy\Story_Thingy\obj\Debug\Story_Thingy.pdb
